@@ -249,6 +249,7 @@ try{
 	  texte["serverTime"] = "Czas serwera";
 	  texte["sessionEnd"] = "Koniec sesji o %1% - Kliknij by zalogowa" + c_ac + " ponownie";
 	  texte["SGH"] = "Sklep"; // Short for the seller of plants
+	  texte["shadowboxitem"]="Rzecz na p"+o_ac+l_stroke+"k"+e_ogonek;
 	  texte["shortHours"] = "h";
 	  texte["shortOClock"] = "h";
 	  texte["shouldReload"] = "Powiniene" + s_ac + " od" + s_ac + "wie" + z_dot + "y" + c_ac + " stron" + e_ogonek + ".";
