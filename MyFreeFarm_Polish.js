@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        MyFreeFarm Polish
-// @namespace   http://openuserjs.org/scripts/show/XXXXXX
+// @namespace   https://github.com/Bonizaur/MyFreeFarm_Polish
 // @description Polski pakiet jezykowy do Berater/Automater
-// @date        18.08.2014
-// @version     1.0.14
+// @date        20.08.2014
+// @version     1.0.15
 // @include     http://wolnifarmerzy.pl/*
 // @include     http://s*.wolnifarmerzy.pl/*
 // @include     http://www.wolnifarmerzy.pl/*
@@ -409,7 +409,7 @@ try{
 		texte["automat_setvalUseBot_plant"] = "Czy wy" + s_ac + "wietla" + c_ac + " ikony automatyzacji siewu?";
 		texte["automat_setvalUseBot_water"] = "Czy pola maj" + a_ogonek + " by" + c_ac + " podlewane?";
 		texte["automat_setvalUseBot_feed"] = "Czy wy" + s_ac + "wietla" + c_ac + " ikony automatyzacji karmienia?";
-	  texte["automat_setvaluseBot_farmersmarket"] = "U"+z_dot+"yj bota na Targowisku";
+	  texte["automat_setvaluseBot_farmersmarket"] = "U"+z_dot+"yj bota na Targowisku (konto Premium)";
 		texte["automat_setvaluseBot_foodworld"] = "U" + z_dot + "yj bota w Strefie Pikniku"; // Harry;
 		texte["automat_setvaluseBot_farmi"] = "U" + z_dot + "yj bota do obs" + l_stroke + "ugi Klient" + o_ac + "w";
 		texte["automat_setvaluseBot_lottery"] = "U" + z_dot + "yj bota do obs" + l_stroke + "ugi Loterii";
